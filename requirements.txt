@@ -4,3 +4,4 @@ requests
 seaborn
 matplotlib
 ydata_profiling
+scikit-learn
